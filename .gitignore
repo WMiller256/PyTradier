@@ -7,3 +7,5 @@ tests.py
 depreciated
 _site/
 _build/
+build/
+pytradier.egg-info/
